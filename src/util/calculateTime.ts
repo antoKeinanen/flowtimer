@@ -16,7 +16,7 @@ const breaks = [
   {
     start: 0,
     end: 1_500_000,
-    length: 3_000,
+    length: 300_000,
   },
   {
     start: 1_500_001,
